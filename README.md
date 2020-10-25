@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Nenad Pantelić </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NenadPantelic" alt="Nenad" /> </p>
   
 <h3 align="center">Software Engineer 💻 | Teaching Associate :man_teacher: | Tecnology geek :keyboard: | Student :man_student:</h3>
 
@@ -48,6 +49,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nenadpantelic&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nenad's GitHub Stats" />
 </a>
 
+## Resume
+You can find my resume [here](https://drive.google.com/file/d/1qJZHNu7Navfu35eTq6pawYL2Y4Aonokw/view?usp=sharing)
 
 ## Contact me  
 <div>
