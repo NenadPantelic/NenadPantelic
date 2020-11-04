@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NenadPantelic" alt="Nenad" /> </p>
   
-<h3 align="center">Software Engineer 💻 | Teaching Associate :man_teacher: | Tecnology geek :keyboard: | Student :man_student:</h3>
+<h3 align="center">Software Engineer 💻 | Teaching Associate :man_teacher: | Technology geek :keyboard: | Student :man_student:</h3>
 
 - 🔭 I’m currently working on [forem dev.to](https://github.com/forem/forem)
 - 🌱 I’m currently learning React ⚛️
-- 💬 Ask me about **Python** :snake: **Java** :coffee: **Spring Boot** :leaves: Algorithms and Data Structures :fire: Web dev :spider_web:
+- 💬 Ask me about **Python** :snake: **Java** :coffee: **Spring Boot** :leaves: **Algorithms and Data Structures** :fire: **Web dev** :spider_web:
 - 📫 How to reach me: **nenadpantelickg@gmail.com**
 - 😄 Pronouns: he/him
 - :house: Location: Kragujevac, Serbia :serbia:
