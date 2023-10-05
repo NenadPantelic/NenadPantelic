@@ -5,7 +5,8 @@
 <h3 align="center">Software Engineer 💻 | Teaching Associate :man_teacher: | Technology geek :keyboard: | Student :man_student:</h3>
 
 - 🔭 I’m currently working on [forem dev.to](https://github.com/forem/forem)
-- 🌱 I’m currently learning React ⚛️
+- 🌱 I’m currently learning React ⚛️ and Go
+
 - 💬 Ask me about **Python** :snake: **Java** :coffee: **Spring Boot** :leaves: **Algorithms and Data Structures** :fire: **Web dev** :spider_web:
 - 📫 How to reach me: **nenadpantelickg@gmail.com**
 - 😄 Pronouns: he/him
